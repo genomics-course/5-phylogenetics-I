@@ -1,0 +1,9 @@
+name: session-5
+channels: 
+  - bioconda
+dependencies:
+  - python
+  - requests
+  - pandas
+  - raxml
+  - muscle
