@@ -1,11 +1,5 @@
 name: session-5
-channels: 
-  - bioconda
-  - eaton-lab
 dependencies:
   - python
   - requests
   - pandas
-  - raxml
-  - muscle
-  - toytree
